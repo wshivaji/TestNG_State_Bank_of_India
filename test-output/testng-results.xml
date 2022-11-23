@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-14T13:42:31 IST" name="Default suite" finished-at="2022-11-14T13:43:29 IST" duration-ms="58044">
+    <groups>
+    </groups>
+    <test started-at="2022-11-14T13:42:31 IST" name="Default test" finished-at="2022-11-14T13:43:29 IST" duration-ms="58044">
+      <class name="SBIN_Sanity_Test.SBIN_Sanity_Test_Cases">
+        <test-method is-config="true" signature="beforeSanity()[pri:0, instance:SBIN_Sanity_Test.SBIN_Sanity_Test_Cases@6d4d66d2]" started-at="2022-11-14T13:42:31 IST" name="beforeSanity" finished-at="2022-11-14T13:43:10 IST" duration-ms="39354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSanity -->
+        <test-method signature="testSanity()[pri:0, instance:SBIN_Sanity_Test.SBIN_Sanity_Test_Cases@6d4d66d2]" started-at="2022-11-14T13:43:10 IST" name="testSanity" finished-at="2022-11-14T13:43:27 IST" duration-ms="17183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSanity -->
+        <test-method is-config="true" signature="afterSanity()[pri:0, instance:SBIN_Sanity_Test.SBIN_Sanity_Test_Cases@6d4d66d2]" started-at="2022-11-14T13:43:28 IST" name="afterSanity" finished-at="2022-11-14T13:43:29 IST" duration-ms="1071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSanity -->
+      </class> <!-- SBIN_Sanity_Test.SBIN_Sanity_Test_Cases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
